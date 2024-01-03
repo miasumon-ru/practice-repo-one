@@ -1,0 +1,12 @@
+h3{
+    color: brown;
+    font-size: 36px;
+    text-align: center;
+}
+
+p{
+    color: rgb(243, 220, 193);
+    background-color: rgb(255, 140, 0);
+    border: 10px solid rgb(243, 110, 110);
+    padding: 10px;
+}
