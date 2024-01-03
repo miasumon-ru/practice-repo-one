@@ -1,7 +1,8 @@
-h3{
+h3,h4{
     color: brown;
     font-size: 36px;
     text-align: center;
+    border: 1px solid green;
 }
 
 p{
@@ -10,3 +11,4 @@ p{
     border: 10px solid rgb(243, 110, 110);
     padding: 10px;
 }
+
